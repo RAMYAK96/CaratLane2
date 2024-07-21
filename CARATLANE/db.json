@@ -27,21 +27,53 @@
           {
             "id": 4,
             "title": "Check delivery date",
-            "price": "₹24804",
-            "description": "Tinashe Spiral Diamond Ring",
+            "price": "₹26,493",
+            "description": "Snow White Love Diamond Ring",
             "category": "Rings",
-            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08853-1YP9RS_11_listfront.jpg"
           },
           {
             "id": 5,
             "title": "Check delivery date",
-            "price": "₹24804",
-            "description": "Tinashe Spiral Diamond Ring",
+            "price": "₹36,632",
+            "description": "Florid Mesh Diamond Ring",
             "category": "Rings",
-            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05757-1RP600_11_listfront.jpg"
           },
           {
             "id": 6,
+            "title": "Check delivery date",
+            "price": "₹31,337",
+            "description": "Peora Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08557-1RP900_11_listfront.jpg"
+          },
+          {
+            "id": 7,
+            "title": "Check delivery date",
+            "price": "₹94,690",
+            "description": "Regal Romance Diamond Bridal Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08670-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 8,
+            "title": "Check delivery date",
+            "price": "₹22368",
+            "description": "Cinderella Crown Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 9,
+            "title": "Check delivery date",
+            "price": "₹29044",
+            "description": "Snake Spring Diamond Cocktail Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 10,
             "title": "Check delivery date",
             "price": "₹24804",
             "description": "Tinashe Spiral Diamond Ring",
@@ -49,7 +81,55 @@
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
           },
           {
-            "id": 6,
+            "id": 11,
+            "title": "Check delivery date",
+            "price": "₹26,493",
+            "description": "Snow White Love Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08853-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 12,
+            "title": "Check delivery date",
+            "price": "₹36,632",
+            "description": "Florid Mesh Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05757-1RP600_11_listfront.jpg"
+          },
+          {
+            "id": 13,
+            "title": "Check delivery date",
+            "price": "₹31,337",
+            "description": "Peora Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08557-1RP900_11_listfront.jpg"
+          },
+          {
+            "id": 14,
+            "title": "Check delivery date",
+            "price": "₹94,690",
+            "description": "Regal Romance Diamond Bridal Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08670-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 15,
+            "title": "Check delivery date",
+            "price": "₹22368",
+            "description": "Cinderella Crown Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 16,
+            "title": "Check delivery date",
+            "price": "₹29044",
+            "description": "Snake Spring Diamond Cocktail Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 17,
             "title": "Check delivery date",
             "price": "₹24804",
             "description": "Tinashe Spiral Diamond Ring",
@@ -57,20 +137,304 @@
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
           },
           {
-            "id": 6,
+            "id": 18,
             "title": "Check delivery date",
-            "price": "₹24804",
-            "description": "Tinashe Spiral Diamond Ring",
+            "price": "₹26,493",
+            "description": "Snow White Love Diamond Ring",
             "category": "Rings",
-            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
-          },
-          {
-            "id": 6,
-            "title": "Check delivery date",
-            "price": "₹24804",
-            "description": "Tinashe Spiral Diamond Ring",
-            "category": "Rings",
-            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08853-1YP9RS_11_listfront.jpg"
           }
+    ],
+    "solitaires" : [
+      {
+        "id": 1,
+        "title": "Check delivery date",
+        "price": "₹73,507",
+        "description": "Tia Twine Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02482-RGP900_11_listfront.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Check delivery date",
+        "price": "₹90,189",
+        "description": "Sahana Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00011-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Check delivery date",
+        "price": "₹2,22,048",
+        "description": "Queen of Diamonds Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02012-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Check delivery date",
+        "price": "₹73,198",
+        "description": "Deepika Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00001-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Check delivery date",
+        "price": "₹1,25,460",
+        "description": "Sunshine Solitaire Bridal Ring Set",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02761-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Check delivery date",
+        "price": "₹77,892",
+        "description": "Misha Soliaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00007-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Check delivery date",
+        "price": "₹25,556",
+        "description": "Aria Solitaire Nose Pin",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/N/SN00003-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Check delivery date",
+        "price": "₹73,507",
+        "description": "Tia Twine Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02482-RGP900_11_listfront.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Check delivery date",
+        "price": "₹90,189",
+        "description": "Sahana Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00011-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Check delivery date",
+        "price": "₹2,22,048",
+        "description": "Queen of Diamonds Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02012-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Check delivery date",
+        "price": "₹73,198",
+        "description": "Deepika Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00001-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Check delivery date",
+        "price": "₹1,25,460",
+        "description": "Sunshine Solitaire Bridal Ring Set",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02761-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Check delivery date",
+        "price": "₹77,892",
+        "description": "Misha Soliaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00007-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Check delivery date",
+        "price": "₹25,556",
+        "description": "Aria Solitaire Nose Pin",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/N/SN00003-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Check delivery date",
+        "price": "₹73,507",
+        "description": "Tia Twine Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02482-RGP900_11_listfront.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Check delivery date",
+        "price": "₹90,189",
+        "description": "Sahana Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00011-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Check delivery date",
+        "price": "₹2,22,048",
+        "description": "Queen of Diamonds Solitaire Ring",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02012-YGP900_11_listfront.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Check delivery date",
+        "price": "₹73,198",
+        "description": "Deepika Solitaire Mangalsutra",
+        "category": "solitaires",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00001-YGP900_11_listfront.jpg"
+      }
+    ],
+    "mangalsutras" : [
+      {
+        "id": 1,
+        "title": "Check delivery date",
+        "price": "₹39,975",
+        "description": "Raisha Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01046-1YP900_11_listfront.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Check delivery date",
+        "price": "₹26,030",
+        "description": "Tania Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00519-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Check delivery date",
+        "price": "₹1,02,245",
+        "description": "Samaira Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00163-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Check delivery date",
+        "price": "₹25,001",
+        "description": "Akshita Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00526-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Check delivery date",
+        "price": "₹71,954",
+        "description": "Preeti Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00201-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Check delivery date",
+        "price": "₹43,965",
+        "description": "Navya Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00290-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Check delivery date",
+        "price": "₹56,905",
+        "description": "Divya Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00132-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Check delivery date",
+        "price": "₹39,975",
+        "description": "Raisha Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01046-1YP900_11_listfront.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Check delivery date",
+        "price": "₹26,030",
+        "description": "Tania Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00519-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Check delivery date",
+        "price": "₹1,02,245",
+        "description": "Samaira Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00163-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Check delivery date",
+        "price": "₹25,001",
+        "description": "Akshita Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00526-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Check delivery date",
+        "price": "₹71,954",
+        "description": "Preeti Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00201-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Check delivery date",
+        "price": "₹43,965",
+        "description": "Navya Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00290-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Check delivery date",
+        "price": "₹56,905",
+        "description": "Divya Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00132-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Check delivery date",
+        "price": "₹39,975",
+        "description": "Raisha Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01046-1YP900_11_listfront.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Check delivery date",
+        "price": "₹26,030",
+        "description": "Tania Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00519-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Check delivery date",
+        "price": "₹1,02,245",
+        "description": "Samaira Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00163-YGP600_11_listfront.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Check delivery date",
+        "price": "₹25,001",
+        "description": "Akshita Diamond Mangalsutra",
+        "category": "MangalSutras",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00526-1YP600_11_listfront.jpg"
+      }
     ]
 }
