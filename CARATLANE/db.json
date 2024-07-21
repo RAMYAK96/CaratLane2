@@ -1,0 +1,76 @@
+{
+    "rings" : [
+        {
+            "id": 1,
+            "title": "Check delivery date",
+            "price": "₹22368",
+            "description": "Cinderella Crown Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Check delivery date",
+            "price": "₹29044",
+            "description": "Snake Spring Diamond Cocktail Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Check delivery date",
+            "price": "₹24804",
+            "description": "Tinashe Spiral Diamond Ring",
+            "category": "Rings",
+            "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
+          }
+    ]
+}
