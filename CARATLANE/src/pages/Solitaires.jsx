@@ -2,7 +2,10 @@ import React from "react";
 
 const Solitaires = () => {
     return(
-        <div>Solitaires</div>
+        <div>
+               <div style={{height : "90px"}}></div>
+            Solitaires
+            </div>
     );
 }
 

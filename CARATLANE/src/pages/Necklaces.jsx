@@ -2,7 +2,10 @@ import React from "react";
 
 const Necklaces = () => {
     return(
-        <div>Necklaces</div>
+        <div>
+               <div style={{height : "90px"}}></div>
+            Necklaces
+        </div>
     );
 }
 

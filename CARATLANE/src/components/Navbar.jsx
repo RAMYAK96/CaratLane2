@@ -33,7 +33,7 @@ export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure()
 
   return (
-    <Box >
+    <Box style={{position : "fixed",zIndex : "2"}}>
         <div style={{textAlign : "center",backgroundColor : "darkviolet",color : "white"}}>
             caratlane
         </div>
@@ -275,14 +275,54 @@ const NAV_ITEMS = [
     href: '/rings',
     children: [
       {
-        label: 'Explore Design Work',
+        label: 'ENGAGEMENT',
         // subLabel: 'Trending Design to inspire you',
         href: '/rings',
       },
       {
-        label: 'New & Noteworthy',
-        subLabel: 'Up-and-coming Designers',
+        label: 'DAILY WEAR',
         href: '/rings',
+        
+      },
+      {
+        label: 'COIUPLE RINGS',
+        href: '/rings',
+        
+      },
+      {
+        label: 'COCKTAIL',
+        href: '/rings',
+        
+      },
+      {
+        label: 'INFINITY',
+        href: '/rings',
+        
+      },
+      {
+        label: 'SOLITARE',
+        href: '/rings',
+        
+      },
+      {
+        label: 'BANDS',
+        href: '/rings',
+        
+      },
+      {
+        label: 'PLATINUM',
+        href: '/rings',
+        
+      },
+      {
+        label: 'PROMISE RINGS',
+        href: '/rings',
+        
+      },
+      {
+        label: 'ADJUSTABLE RINGS',
+        href: '/rings',
+        
       },
     ],
   },
@@ -291,13 +331,39 @@ const NAV_ITEMS = [
     href: '/earings',
     children: [
       {
-        label: 'Explore Design Work',
-        subLabel: 'Trending Design to inspire you',
+        label: 'STUDS',
         href: '/earings',
       },
       {
-        label: 'New & Noteworthy',
-        subLabel: 'Up-and-coming Designers',
+        label: 'JHUMKAS',
+        href: '/earings',
+      },
+      {
+        label: 'EARCUFFS',
+        href: '/earings',
+      },
+      {
+        label: 'PEARL EARINGS',
+        href: '/earings',
+      },
+      {
+        label: 'CHANDBALI EARRINGS',
+        href: '/earings',
+      },
+      {
+        label: 'DROPS',
+        href: '/earings',
+      },
+      {
+        label: 'HOOPS AND HUGGIES',
+        href: '/earings',
+      },
+      {
+        label: 'GOLD EARINGS',
+        href: '/earings',
+      },
+      {
+        label: 'DAILY WEAR EARINGS',
         href: '/earings',
       },
     ],
@@ -307,18 +373,39 @@ const NAV_ITEMS = [
     href: '/bracelet',
     children: [
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+      label : 'CHAIN BRACELETS',
         href: '/bracelet',
       },
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+        label : 'FLEXIBLE BRACELETS',
         href: '/bracelet',
       },
       {
-        label: 'Freelance Projects',
-        subLabel: 'An exclusive list for contract work',
+        label: 'LIGHTWEAR BANGLES',
+        href: '/bracelet',
+      },
+      {
+        label: 'GOLD BANGLES',
+        href: '/bracelet',
+      },
+      {
+        label: 'KIDS BRACELETS',
+        href: '/bracelet',
+      },
+      {
+        label: 'OVAL BRACELETS',
+        href: '/bracelet',
+      },
+      {
+        label: 'MANGALSUTRA BRACELETS',
+        href: '/bracelet',
+      },
+      {
+        label: 'DIAMOND BANGLES',
+        href: '/bracelet',
+      },
+      {
+        label: '22kt BRACELETS',
         href: '/bracelet',
       },
     ],
@@ -328,18 +415,27 @@ const NAV_ITEMS = [
     href: '/solitaires',
     children: [
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+        label: 'RINGS',
         href: '/solitaires',
       },
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+        label: 'PEDANTS',
         href: '/solitaires',
       },
       {
-        label: 'Freelance Projects',
-        subLabel: 'An exclusive list for contract work',
+        label: 'NECKLACE',
+        href: '/solitaires',
+      },
+      {
+        label: 'MENS SOLITARE',
+        href: '/solitaires',
+      },
+      {
+        label: 'EARINGS',
+        href: '/solitaires',
+      },
+      {
+        label: 'MANGALSUTRA',
         href: '/solitaires',
       },
     ],
@@ -357,18 +453,15 @@ const NAV_ITEMS = [
     href: '/morejewellery',
     children: [
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+        label: 'PEDANTS',
         href: '/morejewellery',
       },
       {
-        label: 'Job Board',
-        subLabel: 'Find your dream design job',
+        label: 'NECKLACE',
         href: '/morejewellery',
       },
       {
-        label: 'Freelance Projects',
-        subLabel: 'An exclusive list for contract work',
+        label: 'SHAYA',
         href: '/morejewellery',
       },
     ],

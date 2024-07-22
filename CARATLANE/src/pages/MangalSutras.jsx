@@ -2,7 +2,10 @@ import React from "react";
 
 const MangalSutras = () => {
     return(
-        <div>MangalSutras</div>
+        <div>
+             <div style={{height : "90px"}}></div>
+            MangalSutras
+            </div>
     );
 }
 
