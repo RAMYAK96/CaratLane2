@@ -2,7 +2,11 @@ import React from "react";
 
 const Bracelet = () => {
     return(
-        <div>Bracelet</div>
+        <div>
+             <div style={{height : "90px"}}></div>
+            Bracelet
+            
+        </div>
     );
 }
 

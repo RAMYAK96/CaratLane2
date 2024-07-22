@@ -24,7 +24,10 @@ const MangalSutras = () => {
     },[]);
 
     return(
-        <div>MangalSutras
+
+        <div>
+             <div style={{height : "90px"}}></div>
+            MangalSutras
         <Flex>
         <div >
 

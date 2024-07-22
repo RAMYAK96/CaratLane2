@@ -24,7 +24,11 @@ const Solitaires = () => {
     },[]);
 
     return(
-        <div>solitaires
+
+        <div>
+               <div style={{height : "90px"}}></div>
+            Solitaires
+
         <Flex>
         <div >
 
