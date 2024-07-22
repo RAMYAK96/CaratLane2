@@ -5,6 +5,7 @@ import { useSearchParams } from "react-router-dom";
 import SideBar from "../components/SideBar";
 import { Button, Flex, Grid } from "@chakra-ui/react";
 import { color } from "framer-motion";
+import CommonBar from "../components/CommonBar";
 
 const Rings = () => {
     const [data,setData] = useState([]);
@@ -27,16 +28,6 @@ const Rings = () => {
     return(
         <div>Rings
              <div style={{height : "80px",marginTop : "100px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
-        
-            <div style={ {margin : "20px",marginTop : "-10px",padding : "10px"}}>
-                <Flex>
-                    <Button style={ {margin : "20px",backgroundColor : "blue",color : "white",fontSize : "20px",padding :"20px"}}>All</Button>
-                    <a href="/findstore"><Button style={ {margin : "20px", fontSize : "20px",padding :"20px"}}>Try at Home</Button></a>
-                    <a><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Design in Store</Button></a>
-                    <a><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Faster Delivery</Button></a>
-                    <a href="/morejewellery"><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>New In</Button></a>
-                </Flex>
-            </div>
         
         <Flex>
         <div >
