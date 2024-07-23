@@ -3,7 +3,9 @@ import React, { useEffect } from "react";
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import SideBar from "../components/SideBar";
-import { Flex, Grid } from "@chakra-ui/react";
+import { Button, Flex, Grid } from "@chakra-ui/react";
+import { color } from "framer-motion";
+import CommonBar from "../components/CommonBar";
 
 const Rings = () => {
     const [data,setData] = useState([]);
@@ -25,6 +27,8 @@ const Rings = () => {
 
     return(
         <div>Rings
+             <div style={{height : "80px",marginTop : "100px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+        
         <Flex>
         <div >
 
@@ -32,7 +36,7 @@ const Rings = () => {
         </div>
         <Grid>
 
-            <div style={{height : "80px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+            {/* <div style={{height : "80px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div> */}
            <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-evenly" }}>
                 {data.map((el) => (
                     <ProdCard image={el.image} title={el.title} description={el.description} price={el.price} category={el.category} id={el.id} />

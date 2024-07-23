@@ -24,6 +24,7 @@ const MoreJewellery = () => {
     },[]);
 
     return(
+<<<<<<< HEAD
         <div>MoreJewellery
             <Flex>
         <div >
@@ -42,6 +43,11 @@ const MoreJewellery = () => {
     
         </Flex>
         </Flex>
+=======
+        <div>
+             <div style={{height : "90px"}}></div>
+             MoreJewellery
+>>>>>>> 9d14cbed85f8c4d391e448f3603461ef4547c199
         </div>
     );
 }

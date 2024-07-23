@@ -2,7 +2,10 @@ import React from "react";
 
 const SingleProduct = () => {
     return(
-        <div>SingleProduct</div>
+        <div>
+               <div style={{height : "90px"}}></div>
+            SingleProduct
+        </div>
     );
 }
 

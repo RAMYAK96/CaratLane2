@@ -26,6 +26,7 @@ const Necklaces = () => {
 
     return(
         <div>Necklaces
+            <div style={{height : "90px"}}></div>
         <Flex>
         <div >
 
@@ -42,6 +43,7 @@ const Necklaces = () => {
             </div>
         </Grid>
         </Flex>
+    
         </div>
     );
 }

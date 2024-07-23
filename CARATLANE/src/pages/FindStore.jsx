@@ -2,7 +2,10 @@ import React from "react";
 
 const FindStore = () => {
     return(
-        <div>FindStore</div>
+        <div>
+        <div style={{height : "90px"}}></div>
+        FindStore
+        </div>
     );
 }
 
