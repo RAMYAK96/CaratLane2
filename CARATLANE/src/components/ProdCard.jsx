@@ -3,7 +3,7 @@ import { Card, CardHeader, CardBody, CardFooter,Stack,Heading ,ButtonGroup,Butto
 
 const ProdCard = (el) => {
     return(
-        <div>Product Card
+        <div>
 <Card  style={{width : "200px"}}>
   <CardBody>
     <Image
