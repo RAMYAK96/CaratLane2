@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Check delivery date",
-            "price": "₹22368",
+            "price": "₹22,368",
             "description": "Cinderella Crown Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
@@ -11,7 +11,7 @@
           {
             "id": 2,
             "title": "Check delivery date",
-            "price": "₹29044",
+            "price": "₹29,044",
             "description": "Snake Spring Diamond Cocktail Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
@@ -19,7 +19,7 @@
           {
             "id": 3,
             "title": "Check delivery date",
-            "price": "₹24804",
+            "price": "₹24,804",
             "description": "Tinashe Spiral Love Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
@@ -59,7 +59,7 @@
           {
             "id": 8,
             "title": "Check delivery date",
-            "price": "₹22368",
+            "price": "₹22,368",
             "description": "Cinderella Crown Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
@@ -67,7 +67,7 @@
           {
             "id": 9,
             "title": "Check delivery date",
-            "price": "₹29044",
+            "price": "₹29,044",
             "description": "Snake Spring Diamond Cocktail Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
@@ -75,7 +75,7 @@
           {
             "id": 10,
             "title": "Check delivery date",
-            "price": "₹24804",
+            "price": "₹24,804",
             "description": "Tinashe Spiral Love Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
@@ -115,7 +115,7 @@
           {
             "id": 15,
             "title": "Check delivery date",
-            "price": "₹22368",
+            "price": "₹22,368",
             "description": "Cinderella Crown Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
@@ -123,7 +123,7 @@
           {
             "id": 16,
             "title": "Check delivery date",
-            "price": "₹29044",
+            "price": "₹29,044",
             "description": "Snake Spring Diamond Cocktail Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
@@ -131,7 +131,7 @@
           {
             "id": 17,
             "title": "Check delivery date",
-            "price": "₹24804",
+            "price": "₹24,804",
             "description": "Tinashe Spiral Love Diamond Ring",
             "category": "Rings",
             "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
@@ -151,8 +151,8 @@
       {
         "id": 1,
         "title": "Check delivery date",
-        "price": "₹30368",
-        "description": "Classic quad diamond necklace",
+        "price": "₹30,368",
+        "description": "Classic diamond necklace",
         "category": "Necklaces",
         "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03881-1RP600_11_listfront.jpg"
 
@@ -160,45 +160,43 @@
       {
         "id": 2,
         "title": "Check delivery date",
-        "price": "₹30368",
-        "description": "Classic quad diamond necklace",
+        "price": "₹1,17,443",
+        "description": "Sameera Diamond Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03881-1RP600_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04362-1RP600_11_listfront.jpg"
 
       },
       {
         "id": 3,
         "title": "Check delivery date",
-        "price": "₹30804",
-        "description": "Classic quad diamond necklace",
+        "price": "₹75,274",
+        "description": "Taesha Diamond Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03881-1RP600_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04342-1RP600_11_listfront.jpg"
 
       },
       {   
-            "id": 4,
-        "title": "Check delivery date",
-
-        "price": "₹54804",
-        "description": "Juliet geometric diamond necklace",
+       "id": 4,
+       "title": "Check delivery date",
+        "price": "₹21,266",
+        "description": "Phoenix Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03695-1TP600_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/L/UL00946-1Y0000_11_listfront.jpg"
     },
        
       {
         "id": 5,
         "title": "Check delivery date",
-
-        "price": "₹34804",
-        "description": "Classic quad diamond necklace",
+        "price": "₹29,627",
+        "description": "Jules Diamond Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03881-1RP600_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03706-1RP600_11_listfront.jpg"
 
       },
       {
         "id": 6,
         "title": "Check delivery date",
-        "price": "₹14804",
+        "price": "₹14,804",
         "description": "Ira diamond necklace",
         "category": "Necklaces",
         "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04593-1RP900_11_listfront.jpg"
@@ -206,26 +204,103 @@
       {
         "id": 7,
         "title": "Check delivery date",
-        "price": "₹24804",
-        "description": "Ira diamond necklace",
+        "price": "₹22,919",
+        "description": "Pearl Station Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04593-1RP900_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/L/UL00339-YG00P0_11_listfront.jpg"
       },
       {
         "id": 8,
         "title": "Check delivery date",
-        "price": "₹24804",
+        "price": "₹53,401",
+        "description": "Radiance Gemstone Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03891-1RP6SS_11_listfront.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Check delivery date",
+        "price": "₹21,826",
+        "description": "Cluster Diamond Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03661-1YP600_11_listfront.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Check delivery date",
+        "price": "₹30,368",
+        "description": "Classic diamond necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03881-1RP600_11_listfront.jpg"
+
+      },
+      {
+        "id": 11,
+        "title": "Check delivery date",
+        "price": "₹1,17,443",
+        "description": "Sameera Diamond Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04362-1RP600_11_listfront.jpg"
+
+      },
+      {
+        "id": 12,
+        "title": "Check delivery date",
+        "price": "₹75,274",
+        "description": "Taesha Diamond Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04342-1RP600_11_listfront.jpg"
+
+      },
+      {   
+       "id": 13,
+       "title": "Check delivery date",
+        "price": "₹21,266",
+        "description": "Phoenix Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/L/UL00946-1Y0000_11_listfront.jpg"
+    },
+       
+      {
+        "id": 14,
+        "title": "Check delivery date",
+        "price": "₹29,627",
+        "description": "Jules Diamond Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03706-1RP600_11_listfront.jpg"
+
+      },
+      {
+        "id": 15,
+        "title": "Check delivery date",
+        "price": "₹14,804",
         "description": "Ira diamond necklace",
         "category": "Necklaces",
         "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04593-1RP900_11_listfront.jpg"
       },
       {
-        "id": 9,
+        "id": 16,
         "title": "Check delivery date",
-        "price": "₹24804",
-        "description": "Ira diamond necklace",
+        "price": "₹22,919",
+        "description": "Pearl Station Necklace",
         "category": "Necklaces",
-        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04593-1RP900_11_listfront.jpg"
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/L/UL00339-YG00P0_11_listfront.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Check delivery date",
+        "price": "₹53,401",
+        "description": "Radiance Gemstone Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03891-1RP6SS_11_listfront.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Check delivery date",
+        "price": "₹21,826",
+        "description": "Cluster Diamond Necklace",
+        "category": "Necklaces",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL03661-1YP600_11_listfront.jpg"
       }
       
     ],
