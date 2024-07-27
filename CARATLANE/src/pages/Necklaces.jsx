@@ -6,7 +6,7 @@ import SideBar from "../components/SideBar";
 import { Flex,Grid } from "@chakra-ui/react";
 
 const Necklaces = () => {
-    const [data,setData] = useState([]);// the empty brac stores the data
+    const [data,setData] = useState([]);
     let [searchParams,setSearchParams] = useSearchParams();
     console.log(searchParams);
 
