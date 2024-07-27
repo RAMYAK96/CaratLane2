@@ -547,52 +547,5 @@
       "category": "MangalSutras",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00526-1YP600_11_listfront.jpg"
     }
-  ],
-  "users": [
-    {
-      "id": "89d3",
-      "fname": "Swastik",
-      "lname": "Bhardwaj",
-      "email": "dsadsa@gmail.com",
-      "password": "abcdefgh",
-      "cpassword": "abcdefgh",
-      "phone": "7978968913"
-    },
-    {
-      "id": "364d",
-      "fname": "dsad",
-      "lname": "dsada",
-      "email": "abcd@gmail.com",
-      "password": "123456",
-      "cpassword": "123456",
-      "phone": "7978952146"
-    },
-    {
-      "id": "061e",
-      "fname": "Khushi",
-      "lname": "Sahu",
-      "email": "khushi@gmail.com",
-      "password": "khushi@123",
-      "cpassword": "khushi@123",
-      "phone": "7978968920"
-    },
-    {
-      "id": "a79d",
-      "fname": "Ramyak",
-      "lname": "Rehman",
-      "email": "rehman@supriya.com",
-      "password": "dahibara",
-      "cpassword": "dahibara",
-      "phone": "2384671696"
-    },
-    {
-      "id": "5e25",
-      "fname": "Jayanti ",
-      "lname": "Sahoo",
-      "email": "jayanti@gmail.com",
-      "password": "jayanti",
-      "cpassword": "jayanti",
-      "phone": "7978909618"
-    }
   ]
 }
