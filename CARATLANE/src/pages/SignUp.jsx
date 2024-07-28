@@ -4,7 +4,7 @@ const SignUp = () => {
     return(
         <div>
                <div style={{height : "90px"}}></div>
-            SignUp
+            SignUp swastik is gayyyyyy
         </div>
     );
 }
