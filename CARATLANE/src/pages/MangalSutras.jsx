@@ -4,13 +4,14 @@ import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import SideBar from "../components/SideBar";
 import { Flex, Grid } from "@chakra-ui/react";
+import CommonBar from "../components/CommonBar";
 
 const MangalSutras = () => {
-    const [data,setData] = useState([]);
-    let [searchParams,setSearchParams] = useSearchParams();
+    const [data, setData] = useState([]);
+    let [searchParams, setSearchParams] = useSearchParams();
     console.log(searchParams);
 
-    async function getData(){
+    async function getData() {
         let res = await fetch(`http://localhost:3000/mangalsutras`);
         let fetchData = await res.json();
         setData(fetchData);
@@ -20,32 +21,33 @@ const MangalSutras = () => {
 
     useEffect(() => {
         getData();
-        
-    },[]);
 
-    return(
+    }, []);
+
+    return (
 
         <div>
-             <div style={{height : "90px"}}></div>
-            MangalSutras
-        <Flex>
-        <div >
+            <div style={{ height: "90px" }}></div>
+            <div style={{height : "80px",marginTop : "20px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+            <CommonBar/>
+            <Flex>
+                <div >
 
-        <SideBar/>
-        </div>
-        <Grid>
+                    <SideBar />
+                </div>
+                <Grid>
 
-            <div style={{height : "80px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
-           <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-evenly" }}>
-                {data.map((el) => (
-                    <ProdCard image={el.image} title={el.title} description={el.description} price={el.price} category={el.category} id={el.id} />
-                    //the atrribute we are passing here should be same as the key values of the products at ProdCard page
-                ))}
-            </div>
-        </Grid>
-        </Flex>
+                    <div style={{ height: "80px" }}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+                    <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-evenly" }}>
+                        {data.map((el) => (
+                            <ProdCard image={el.image} title={el.title} description={el.description} price={el.price} category={el.category} id={el.id} />
+                            //the atrribute we are passing here should be same as the key values of the products at ProdCard page
+                        ))}
+                    </div>
+                </Grid>
+            </Flex>
         </div>
-    
+
     );
 }
 
