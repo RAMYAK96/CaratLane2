@@ -35,7 +35,7 @@ export default function WithSubnavigation() {
   return (
     <Box style={{position : "fixed",zIndex : "2"}}>
         <div style={{textAlign : "center",backgroundColor : "darkviolet",color : "white"}}>
-            caratlane
+            CaratLane - A Tanisq Partnership
         </div>
       <Flex
         bg={useColorModeValue('white')}
@@ -61,16 +61,16 @@ export default function WithSubnavigation() {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: 'center', md: 'start' }}>
-        <Image
+        <a href='/'><Image
     boxSize='45px'
     objectFit='cover'
     src='https://cdn.caratlane.com/media/static/images/V4/2024/CL/06_JUNE/Banner/Logo/logo.gif'
     alt='Dan Abramov'
-  />
+  /></a>
           <Flex display={{ base: 'none', md: 'flex' }} ml={10}>
             <DesktopNav />
           <Input placeholder='Search Jewellery' size="m" width={40} marginLeft={8} border={"3px solid pink"} borderRadius={"10px"}/>
-          <Image style={{width : "50px"}}src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxS1_wFz_REj4z6-r43zabQarAfCOFG0ljFyDbjCgT0YCc18bs'/>
+          <a href='/morejewellery'><Image style={{width : "50px"}}src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxS1_wFz_REj4z6-r43zabQarAfCOFG0ljFyDbjCgT0YCc18bs'/></a>
           
           <Grid style={{textAlign : "center",marginLeft : "3px",marginTop : "5px"}}>
           <Text style={{fontSize: "10px"}}>

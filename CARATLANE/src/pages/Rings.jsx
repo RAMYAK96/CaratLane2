@@ -7,6 +7,7 @@ import { Button, Flex, Grid } from "@chakra-ui/react";
 import { color } from "framer-motion";
 import CommonBar from "../components/CommonBar";
 
+
 const Rings = () => {
     const [data,setData] = useState([]);
     let [searchParams,setSearchParams] = useSearchParams();
@@ -28,7 +29,7 @@ const Rings = () => {
     return(
         <div>Rings
              <div style={{height : "80px",marginTop : "100px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
-        
+            <CommonBar/>
         <Flex>
         <div >
 
