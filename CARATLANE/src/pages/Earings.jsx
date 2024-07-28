@@ -26,9 +26,10 @@ const Earings = () => {
     },[]);
 
     return(
-        <div>Earings
-             <div style={{height : "80px",marginTop : "100px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
-        
+        <div>
+            <div style={{ height: "90px" }}></div>
+            <div style={{ height: "80px", marginTop: "20px", marginLeft: "40px" }}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+            <CommonBar />
         <Flex>
         <div >
 

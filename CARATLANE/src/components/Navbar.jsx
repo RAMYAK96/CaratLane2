@@ -468,6 +468,6 @@ const NAV_ITEMS = [
   },
   {
     label: 'Gifting  To.  ',
-    href: '/findstore',
+    href: '/gifting',
   },
 ]
