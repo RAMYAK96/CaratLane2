@@ -7,7 +7,7 @@ import { Button, Flex, Grid } from "@chakra-ui/react";
 import { color } from "framer-motion";
 import CommonBar from "../components/CommonBar";
 
-const FindStore = () => {
+const Gifting = () => {
     const [data,setData] = useState([]);
     let [searchParams,setSearchParams] = useSearchParams();
     console.log(searchParams);
@@ -26,9 +26,10 @@ const FindStore = () => {
     },[]);
 
     return(
-        <div>FindStore
-             <div style={{height : "80px",marginTop : "100px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
-        
+        <div>
+            <div style={{ height: "90px" }}></div>
+            <div style={{ height: "80px", marginTop: "20px", marginLeft: "40px" }}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+            <CommonBar />
         <Flex>
         <div >
 
@@ -50,6 +51,6 @@ const FindStore = () => {
     );
 }
 
-export default FindStore
+export default Gifting
 
 

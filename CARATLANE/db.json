@@ -550,81 +550,27 @@
   ],
   "cart": [
     {
-      "id": "1722106945806.0908",
+      "id": 1722186899158.1958,
       "description": "Cinderella Crown Diamond Ring",
       "price": "₹22368",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
     },
     {
-      "id": "1722162777626.0266",
-      "description": "Snake Spring Diamond Cocktail Ring",
-      "price": "₹29044",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
-    },
-    {
-      "id": "1722163486341.4854",
-      "description": "Tania Diamond Mangalsutra",
-      "price": "₹26,030",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00519-1YP600_11_listfront.jpg"
-    },
-    {
-      "id": "1722164790479.5146",
-      "description": "Snake Spring Diamond Cocktail Ring",
-      "price": "₹29044",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
-    },
-    {
-      "id": "1722165128490.8845",
-      "description": "Snake Spring Diamond Cocktail Ring",
-      "price": "₹29044",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
-    },
-    {
-      "id": "1722165758662.836",
-      "description": "Snake Spring Diamond Cocktail Ring",
-      "price": "₹29044",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
-    },
-    {
-      "id": "1722166885653.815",
-      "description": "Cinderella Crown Diamond Ring",
-      "price": "₹22368",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
-    },
-    {
-      "id": 1722182385438.611,
-      "description": "Regal Romance Diamond Bridal Ring",
-      "price": "₹94,690",
-      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08670-1YP900_11_listfront.jpg"
+      "id": 1722186903962.9585,
+      "description": "Flowery Mosaic Diamond Stud Earrings",
+      "price": "₹17,266",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE07678-1YP900_11_listfront.jpg"
     }
   ],
   "users": [
     {
-      "id": "e434",
-      "fname": "Khushi",
-      "lname": "Sahu",
-      "email": "khushi@gmail.com",
-      "password": "swastik",
-      "cpassword": "swastik",
-      "phone": "7978968913"
-    },
-    {
-      "id": "61d3",
-      "fname": "Khushi",
-      "lname": "Sahu",
-      "email": "khushi@gmail.com",
-      "password": "pottyramayak",
-      "cpassword": "pottyramayak",
-      "phone": "8764634593"
-    },
-    {
-      "id": "e9d6",
-      "fname": "priyansi",
-      "lname": "mishra",
-      "email": "priyansimishra9@gmail.com",
-      "password": "qwertyuiop@#",
-      "cpassword": "qwertyuiop@#",
-      "phone": "8763678390"
+      "id": "18e1",
+      "fname": "adeed",
+      "lname": "wefwf",
+      "email": "ehjfvwefb@gmail.com",
+      "password": "opopop",
+      "cpassword": "opopop",
+      "phone": "6969696969"
     }
   ],
   "Bracelet": [
@@ -925,7 +871,7 @@
       "title": "Check delivery date",
       "price": "₹17,600",
       "description": "Millie Floral Diamond Band",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR07351-1YP900_11_listfront.jpg"
     },
     {
@@ -933,7 +879,7 @@
       "title": "Check delivery date",
       "price": "₹17,960",
       "description": "Ella Diamond Mangalsutra Vanki Ring",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08397-1YP900_11_listfront.jpg"
     },
     {
@@ -941,7 +887,7 @@
       "title": "Check delivery date",
       "price": "₹59,427",
       "description": "Celestial Chain Necklace",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL05101-1YP900_11_listfront.jpg"
     },
     {
@@ -949,7 +895,7 @@
       "title": "Check delivery date",
       "price": "₹11,530",
       "description": "Lovely Blossom Diamond Stud Earrings",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06845-1RP600_11_listfront.jpg"
     },
     {
@@ -957,7 +903,7 @@
       "title": "Check delivery date",
       "price": "₹24,307",
       "description": "Tinashe Spiral Diamond Ring",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08628-1YP9RS_11_listfront.jpg"
     },
     {
@@ -965,7 +911,7 @@
       "title": "Check delivery date",
       "price": "₹32,030",
       "description": "Neisha Diamond Mangalsutra",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00769-1YP900_11_listfront.jpg"
     },
     {
@@ -973,7 +919,7 @@
       "title": "Check delivery date",
       "price": "₹66,994",
       "description": "Jagvi Twisted Diamond Bracelet",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT02202-1YP900_11_listfront.jpg"
     },
     {
@@ -981,7 +927,7 @@
       "title": "Check delivery date",
       "price": "₹74,574",
       "description": "Taesha Diamond Necklace",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04342-1RP600_11_listfront.jpg"
     },
     {
@@ -989,7 +935,7 @@
       "title": "Check delivery date",
       "price": "₹1,03,159",
       "description": "Ainaz Diamond Chokar Necklace",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL05029-1RP900_11_listfront.jpg"
     },
     {
@@ -997,7 +943,7 @@
       "title": "Check delivery date",
       "price": "₹19,627",
       "description": "Wondrous Leafy Diamond Bracelet",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01494-1YP900_11_listfront.jpg"
     },
     {
@@ -1005,7 +951,7 @@
       "title": "Check delivery date",
       "price": "₹27,664",
       "description": "Cusion Cluster Promise Ring",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08618-1RP900_11_listfront.jpg"
     },
     {
@@ -1013,7 +959,7 @@
       "title": "Check delivery date",
       "price": "₹15,637",
       "description": "Glistening Classic Diamond Band",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06400-1YP600_12_listhover.jpg"
     },
     {
@@ -1021,7 +967,7 @@
       "title": "Check delivery date",
       "price": "₹15,893",
       "description": "Veni Drop and Danglers",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09208-1YP900_11_listfront.jpg"
     },
     {
@@ -1029,7 +975,7 @@
       "title": "Check delivery date",
       "price": "₹13,928",
       "description": "Blissful Diamond Stud Earrings",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06866-1RP600_11_listfront.jpg"
     },
     {
@@ -1037,7 +983,7 @@
       "title": "Check delivery date",
       "price": "₹1,04,998",
       "description": "Gleam Stardust Diamond Necklace",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04880-1RP600_11_listfront.jpg"
     },
     {
@@ -1045,7 +991,7 @@
       "title": "Check delivery date",
       "price": "₹27,862",
       "description": "Kaasni Diamond Mangalsutra",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00768-1YP900_11_listfront.jpg"
     },
     {
@@ -1053,7 +999,7 @@
       "title": "Check delivery date",
       "price": "₹14,068",
       "description": "Charmed Drop Earrings",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09316-1YP900_11_listfront.jpg"
     },
     {
@@ -1061,7 +1007,7 @@
       "title": "Check delivery date",
       "price": "₹44,291",
       "description": "Swaying Diamond Necklace",
-      "category": "Earings",
+      "category": "Gifting",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/L/JL04091-YGP600_11_listfront.jpg"
     }
   ]
