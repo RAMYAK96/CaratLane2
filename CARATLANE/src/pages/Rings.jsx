@@ -13,7 +13,7 @@ const Rings = () => {
     console.log(searchParams);
 
     async function getData(){
-        let res = await fetch(`http://localhost:3000/rings`);
+        let res = await fetch("http://localhost:3000/rings");
         let fetchData = await res.json();
         setData(fetchData);
         console.log(fetchData);

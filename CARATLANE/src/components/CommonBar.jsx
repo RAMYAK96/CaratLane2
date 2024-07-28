@@ -1,4 +1,6 @@
 import React from "react";
+import { Flex } from "@chakra-ui/react";
+import { Button } from "@chakra-ui/react";
 
 const CommonBar = () => {
     return(
@@ -7,8 +9,8 @@ const CommonBar = () => {
                 <Flex>
                     <Button style={ {margin : "20px",backgroundColor : "blue",color : "white",fontSize : "20px",padding :"20px"}}>All</Button>
                     <a href="/findstore"><Button style={ {margin : "20px", fontSize : "20px",padding :"20px"}}>Try at Home</Button></a>
-                    <a><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Design in Store</Button></a>
-                    <a><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Faster Delivery</Button></a>
+                    <a href="/signup"><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Design in Store</Button></a>
+                    <a href="/signup"><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>Faster Delivery</Button></a>
                     <a href="/morejewellery"><Button style={ {margin : "20px",fontSize : "20px",padding :"20px"}}>New In</Button></a>
                 </Flex>
             </div>

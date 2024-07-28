@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import SideBar from "../components/SideBar";
 import { Flex,Grid } from "@chakra-ui/react";
+import CommonBar from "../components/CommonBar";
 
 const Necklaces = () => {
     const [data,setData] = useState([]);
@@ -26,7 +27,9 @@ const Necklaces = () => {
 
     return(
         <div>Necklaces
-            <div style={{height : "90px"}}></div>
+            <div style={{ height: "90px" }}></div>
+            <div style={{height : "80px",marginTop : "20px",marginLeft : "40px"}}><b>Exclusive 20% Off On Diamond Jewellery | 4000+</b>5209 Designs</div>
+            <CommonBar/>
         <Flex>
         <div >
 

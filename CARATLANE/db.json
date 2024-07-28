@@ -547,5 +547,48 @@
       "category": "MangalSutras",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00526-1YP600_11_listfront.jpg"
     }
+  ],
+  "cart": [
+    {
+      "id": "1722106945806.0908",
+      "description": "Cinderella Crown Diamond Ring",
+      "price": "₹22368",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": "1722162777626.0266",
+      "description": "Snake Spring Diamond Cocktail Ring",
+      "price": "₹29044",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": "1722163486341.4854",
+      "description": "Tania Diamond Mangalsutra",
+      "price": "₹26,030",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00519-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": "1722164790479.5146",
+      "description": "Snake Spring Diamond Cocktail Ring",
+      "price": "₹29044",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 1722165758662.836,
+      "description": "Snake Spring Diamond Cocktail Ring",
+      "price": "₹29044",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "e434",
+      "fname": "Khushi",
+      "lname": "Sahu",
+      "email": "khushi@gmail.com",
+      "password": "swastik",
+      "cpassword": "swastik",
+      "phone": "7978968913"
+    }
   ]
 }
