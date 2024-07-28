@@ -467,7 +467,7 @@ const NAV_ITEMS = [
     ],
   },
   {
-    label: 'Find Store',
+    label: 'Gifting  To.  ',
     href: '/findstore',
   },
 ]

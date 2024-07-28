@@ -578,6 +578,18 @@
       "description": "Snake Spring Diamond Cocktail Ring",
       "price": "₹29044",
       "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 1722165758662.836,
+      "description": "Snake Spring Diamond Cocktail Ring",
+      "price": "₹29044",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08992-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 1722166885653.815,
+      "description": "Cinderella Crown Diamond Ring",
+      "price": "₹22368",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08852-1YP900_11_listfront.jpg"
     }
   ],
   "users": [
@@ -589,6 +601,307 @@
       "password": "swastik",
       "cpassword": "swastik",
       "phone": "7978968913"
+    },
+    {
+      "id": "61d3",
+      "fname": "Khushi",
+      "lname": "Sahu",
+      "email": "khushi@gmail.com",
+      "password": "pottyramayak",
+      "cpassword": "pottyramayak",
+      "phone": "8764634593"
+    }
+  ],
+  "Bracelet": [
+    {
+      "id": 1,
+      "title": "Check delivery date",
+      "price": "₹39,975",
+      "description": "Florenna Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01803-1RP600_11_listfront.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Check delivery date",
+      "price": "₹12,030",
+      "description": "Vienna Blossomy Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01491-1RP600_11_listfront.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Check delivery date",
+      "price": "₹55,708",
+      "description": "Cliara Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01816-1RP600_11_listfront.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Check delivery date",
+      "price": "₹25,001",
+      "description": "Kiara Sparkle Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01067-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Check delivery date",
+      "price": "₹38,904",
+      "description": "Folina Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01807-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Check delivery date",
+      "price": "₹32,500",
+      "description": "Twist And Twirl Infinity Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01154-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Check delivery date",
+      "price": "₹56,905",
+      "description": "Sanika Diamond Mangalsutra Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01420-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Check delivery date",
+      "price": "₹18,709",
+      "description": "Arden Infinity Diamond Mangalsutra Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01705-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Check delivery date",
+      "price": "₹66,030",
+      "description": "Jagvi Twisted Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT02202-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Check delivery date",
+      "price": "₹3453",
+      "description": "Sparkling Orb Diamond Bangle",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT01107-1R0000_11_listfront.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Check delivery date",
+      "price": "₹77,001",
+      "description": "Gracy Spiral Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01696-1RP600_12_listhover.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Check delivery date",
+      "price": "₹71,954",
+      "description": "Irsia Diamond Bangle",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/B/JB01161-1RP600_11_listfront.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Check delivery date",
+      "price": "₹1,54,987",
+      "description": "Scallop Glaze Diamond Bangle",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/B/JB00779-YGP600_11_listfront.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Check delivery date",
+      "price": "₹56,905",
+      "description": "Allure Rosy Gemstone Bangle",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/B/JB01118-WRP9RS_11_listfront.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Check delivery date",
+      "price": "₹39,975",
+      "description": "Peppa Crown Personalised Kids' Gold Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00525-YG0000_11_listfront.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Check delivery date",
+      "price": "₹26,030",
+      "description": "Glittering Florid Diamond Bangle",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/B/JB01117-WYP600_11_listfront.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Check delivery date",
+      "price": "₹1,02,245",
+      "description": "Helix Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00625-YGP900_11_listfront.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Check delivery date",
+      "price": "₹1,25,045",
+      "description": "Cacti Fractal Diamond Bracelet",
+      "category": "Bracelet",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00748-RGP600_11_listfront.jpg"
+    }
+  ],
+  "Earings": [
+    {
+      "id": 1,
+      "title": "Check delivery date",
+      "price": "₹21899",
+      "description": "Elina Tulip Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06857-1RP900_11_listfront.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Check delivery date",
+      "price": "₹48,498",
+      "description": "Juno Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09583-1PP900_11_listfront.gif"
+    },
+    {
+      "id": 3,
+      "title": "Check delivery date",
+      "price": "₹17,266",
+      "description": "Flowery Mosaic Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE07678-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Check delivery date",
+      "price": "₹26,493",
+      "description": "Mickey Mouse textured Diamond Earring",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09520-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Check delivery date",
+      "price": "₹55,456",
+      "description": "Layla Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09465-1RP900_11_listfront.gif"
+    },
+    {
+      "id": 6,
+      "title": "Check delivery date",
+      "price": "₹14,500",
+      "description": "Little Mermaid Star Diamond Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09337-1YP900_11_listfront.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Check delivery date",
+      "price": "₹41,087",
+      "description": "Sarh Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09472-1RP900_11_listfront.gif"
+    },
+    {
+      "id": 8,
+      "title": "Check delivery date",
+      "price": "₹22368",
+      "description": "Daisy Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09464-1RP900_11_listfront.gif"
+    },
+    {
+      "id": 9,
+      "title": "Check delivery date",
+      "price": "₹29,044",
+      "description": "Arden Infinity Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE07446-1RP900_11_listfront.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Check delivery date",
+      "price": "₹24,804",
+      "description": "Ann Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09477-1PP900_11_listfront.gif"
+    },
+    {
+      "id": 11,
+      "title": "Check delivery date",
+      "price": "₹44,493",
+      "description": "Helen Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09585-1PP900_11_listfront.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Check delivery date",
+      "price": "₹50,632",
+      "description": "Marion Diamond Dancing Hoops",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09476-1RP900_11_listfront.gif"
+    },
+    {
+      "id": 13,
+      "title": "Check delivery date",
+      "price": "₹31,337",
+      "description": "Twirly Blossom Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06154-1RP600_11_listfront.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Check delivery date",
+      "price": "₹30,690",
+      "description": "Abigail Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03309-YGP600_11_listfront.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Check delivery date",
+      "price": "₹25,903",
+      "description": "Two linear Classic Hoop",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE09089-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Check delivery date",
+      "price": "₹29044",
+      "description": "Quirk Diamond Sui Dhaga Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE08934-1YP600_11_listfront.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Check delivery date",
+      "price": "₹24804",
+      "description": "Laya Twirl Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03114-YGP600_11_listfront.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Check delivery date",
+      "price": "₹26,493",
+      "description": "Analia Tulip Diamond Stud Earrings",
+      "category": "Earings",
+      "image": "https://cdn.caratlane.com/media/catalog/product/J/E/JE06861-1RP600_1_lar.jpg"
     }
   ]
 }

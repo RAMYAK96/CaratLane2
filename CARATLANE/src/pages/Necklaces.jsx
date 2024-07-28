@@ -7,7 +7,7 @@ import { Flex,Grid } from "@chakra-ui/react";
 import CommonBar from "../components/CommonBar";
 
 const Necklaces = () => {
-    const [data,setData] = useState([]);// the empty brac stores the data
+    const [data,setData] = useState([]);
     let [searchParams,setSearchParams] = useSearchParams();
     console.log(searchParams);
 
