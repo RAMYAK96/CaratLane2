@@ -1,9 +1,9 @@
 import React from "react";
 import { Card, CardHeader, CardBody, CardFooter,Stack,Heading ,ButtonGroup,Button,Image,Text} from '@chakra-ui/react'
-
+import { Link } from "react-router-dom";
 const ProdCard = (el) => {
     return(
-        <div>Product Card
+        <div>
 <Card  style={{width : "200px"}}>
   <CardBody>
     <Image
@@ -19,6 +19,8 @@ const ProdCard = (el) => {
       <Text style={{fontSize : "12px"}}>
        {el.description}
       </Text>
+
+      <Button style={{backgroundColor : 'pink'}}><Link to={`/${el.category}/${el.id}`}>Show More</Link></Button>
     </Stack>
   </CardBody>
 </Card>

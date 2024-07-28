@@ -33,14 +33,13 @@ export default function Carousel() {
   // These are the images used in the slide
   const cards = [
     'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdjIJvsIfyjZ8a4TDn9DFmGnSbiROA-JKbAseQylSd3n2G5vzB',
-    'https://images.unsplash.com/photo-1627875764093-315831ac12f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
-    'https://images.unsplash.com/photo-1571432248690-7fd6980a1ae2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
-    'https://images.unsplash.com/photo-1571432248690-7fd6980a1ae2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
-    'https://cdn.caratlane.com/media/static/images/V4/2024/CL/07_JULY/Banner/Flat20/REVISED/Desktop.jpg'
+    'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCV1Q-qIZ8FwigabeyamW5V0IzDQI-v2Okz02xgRqcieJoK9Pb',
+    'https://media.istockphoto.com/id/1198591342/photo/diamond-still-life.webp?b=1&s=170667a&w=0&k=20&c=NcPp5xdvuPuQP4bx-k_h0QB5VGwsH1hP9sxQS7jpmCU=',
+    'https://media.istockphoto.com/id/1193254381/photo/indian-jewellery-necklace.webp?b=1&s=170667a&w=0&k=20&c=0r9fkoufi0e9WUvDF4hS_-AaTWtUsNsICVwzd-mrJwI=',
   ]
 
   return (
-    <Box position={'relative'} height={'550px'} width={'full'} overflow={'hidden'} >
+    <Box position={'relative'} height={'550px'} width={'full'} overflow={'hidden'}  backgroundSize={'contain'} objectFit={'scale-down'}>
       {/* CSS files for react-slick */}
       <link
         rel="stylesheet"
@@ -53,7 +52,7 @@ export default function Carousel() {
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
       />
       {/* Left Icon */}
-      <IconButton
+      {/* <IconButton
         aria-label="left-arrow"
         colorScheme="messenger"
         borderRadius="full"
@@ -64,9 +63,9 @@ export default function Carousel() {
         zIndex={2}
         onClick={() => slider?.slickPrev()}>
         <BiLeftArrowAlt />
-      </IconButton>
+      </IconButton> */}
       {/* Right Icon */}
-      <IconButton
+      {/* <IconButton
         aria-label="right-arrow"
         colorScheme="messenger"
         borderRadius="full"
@@ -77,7 +76,7 @@ export default function Carousel() {
         zIndex={2}
         onClick={() => slider?.slickNext()}>
         <BiRightArrowAlt />
-      </IconButton>
+      </IconButton> */}
       {/* Slider */}
       <Slider {...settings} ref={(slider) => setSlider(slider)}>
         {cards.map((url, index) => (
