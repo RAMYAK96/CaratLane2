@@ -52,7 +52,7 @@ export default function Carousel() {
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
       />
       {/* Left Icon */}
-      <IconButton
+      {/* <IconButton
         aria-label="left-arrow"
         colorScheme="messenger"
         borderRadius="full"
@@ -63,9 +63,9 @@ export default function Carousel() {
         zIndex={2}
         onClick={() => slider?.slickPrev()}>
         <BiLeftArrowAlt />
-      </IconButton>
+      </IconButton> */}
       {/* Right Icon */}
-      <IconButton
+      {/* <IconButton
         aria-label="right-arrow"
         colorScheme="messenger"
         borderRadius="full"
@@ -76,7 +76,7 @@ export default function Carousel() {
         zIndex={2}
         onClick={() => slider?.slickNext()}>
         <BiRightArrowAlt />
-      </IconButton>
+      </IconButton> */}
       {/* Slider */}
       <Slider {...settings} ref={(slider) => setSlider(slider)}>
         {cards.map((url, index) => (
